@@ -1,2 +1,2 @@
 # testProject
-This is test project
+This is TestProject
